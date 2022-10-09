@@ -18,7 +18,7 @@ public class BottomBanner : MonoBehaviour
     private void RequestBanner()
     {
 #if UNITY_ANDROID
-        string adUnitId = "ca-app-pub-3940256099942544/6300978111";   // Å×½ºÆ®¿ë ¾ÆÀÌµğ *Å×½ºÆ® Áß ½ÇÁ¦ ¾ÆÀÌµğ·Î ¹Ù²Ù¸é ¾ÈµË´Ï´Ù.
+        string adUnitId = "ca-app-pub-3940256099942544/6300978111";   // í…ŒìŠ¤íŠ¸ìš© ì•„ì´ë”” *í…ŒìŠ¤íŠ¸ ì¤‘ ì‹¤ì œ ì•„ì´ë””ë¡œ ë°”ê¾¸ë©´ ì•ˆë©ë‹ˆë‹¤.
 #elif UNITY_IPHONE
             string adUnitId = "ca-app-pub-3940256099942544/2934735716";
 #else
@@ -47,7 +47,7 @@ public class BottomBanner : MonoBehaviour
 
     
 
-    // Update is called once per frame
+    // Update is called once per frame 
     void Update()
     {
         
