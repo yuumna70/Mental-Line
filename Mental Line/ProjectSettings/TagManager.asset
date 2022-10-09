@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ring
+  - item
+  - Wall
+  - Hook
+  - Audio
+  - Finish1
+  - ItemB
+  - Move
+  - MoveUp
+  - MoveDown
+  - MoveDownStage3
+  - MoveUpStage3
+  - Monster
+  - MoveStage5
+  - Notice
+  - Trigger
+  - Combo
+  - Save
+  - Respawn1
+  - Respawn2
+  - FinishEasy
+  - Flag
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ring
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
